@@ -1,6 +1,7 @@
 👋 Hello, I'm Vimukthi Fernando!
 
 Welcome to my GitHub profile! 🌱
+
 I'm currently a second-year undergraduate student in Information Technology passionate about diving deep into the world of tech. As someone who has always been fascinated by the endless possibilities of technology, I’m constantly exploring, learning, and growing in all aspects of the industry. Whether it’s developing web applications, working with data, or tinkering with the latest trends in tech, I am eager to immerse myself in everything this field has to offer.
 
 💻 A Bit About Me:
