@@ -45,7 +45,9 @@ Build a strong network of like-minded developers and tech enthusiasts to collabo
 If you’re interested in collaborating, sharing ideas, or just talking tech, feel free to reach out to me!
 
 Email: vimukthishenalfdo@gmail.com
+
 GitHub: github.com/ShenalVimukthi
+
 Let’s create something awesome together! 🚀
 
 Thanks for stopping by! Keep exploring, keep building, and stay curious. I’m looking forward to growing as a developer and contributing to the tech community. 😊
