@@ -6,7 +6,7 @@ I'm currently a second-year undergraduate student in Information Technology pass
 
 💻 A Bit About Me:
 
-Current Role: Second-year IT undergraduate exploring the ever-evolving world of tech.
+Current Role: Third-year IT undergraduate exploring the ever-evolving world of tech.
 
 What I'm Learning: Currently focused on enhancing my skills in web development, software engineering, and data management. I'm also eager to explore cloud computing, cybersecurity, and machine learning.
 
